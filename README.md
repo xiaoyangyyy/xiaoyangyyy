@@ -86,6 +86,7 @@ In parallel, I’m building **Auto Research** to free PhD researchers from repet
 | 仓库 | 内容 |
 | --- | --- |
 | [global-stamp-stories](https://github.com/xiaoyangyyy/global-stamp-stories) | 万国邮政联盟邮票登记 |
+| [global-clinical-trials](https://github.com/xiaoyangyyy/global-clinical-trials) | ClinicalTrials.gov 公开登记 |
 | [origin-food](https://github.com/xiaoyangyyy/origin-food) | 地理标志食物 |
 | [typhoon-tracks](https://github.com/xiaoyangyyy/typhoon-tracks) | 1980 年以来的热带气旋路径 |
 | [antarctic-icebergs](https://github.com/xiaoyangyyy/antarctic-icebergs) | 1980 年以来的南极冰山位置 |
